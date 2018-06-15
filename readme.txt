@@ -6,3 +6,4 @@ Creating a new branch is quick & simple.
 Use dev branch to develop new feature.
 
 Learn how stage works in Git.
+add a new line
