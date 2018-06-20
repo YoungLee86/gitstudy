@@ -1,0 +1,14 @@
+# Windows
+thumbs.db
+ehthumbs.db
+desktop.ini
+
+#python
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+hidden.txt
